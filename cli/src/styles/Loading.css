@@ -6,7 +6,7 @@
 
 .Loading > rect {
     fill: currentColor;
-    fill: #ecf0f1;
+    fill: #424242;
 }
 
 @keyframes spin {
