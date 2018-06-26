@@ -1,7 +1,0 @@
-{
-    "name": "react-dashboard-srv",
-    "env": {
-        "NODE_ENV": "production",
-        "PORT": 80
-    }
-}
