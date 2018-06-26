@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel -p 80 index.html",
+    "start": "parcel -p 8000 index.html",
     "build": "parcel build"
   },
   "author": "",
